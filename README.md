@@ -1,17 +1,27 @@
-# projet_introduction_departement
-Contient une simulation de fluide en convection et une simulation de feu
+# Project: Physics Solver with Fluid Mechanics Simulation and Fire Simulation
 
+## Introduction
+This project provides an implementation of a physics solver featuring simulations of fluid mechanics and fire. The simulations are interactive and offer an engaging visual experience.
 
---------------------------------------------------------------------------
-Explication :
-Suite à la video : real time fire simulation https://www.youtube.com/watch?v=xKEFlg_JMmU&t=78s, j'ai voulue tenter de faire une simulation de feu. 
+## Dependencies
+Before running the simulation, make sure you have the following dependencies installed:
+- GCC (GNU Compiler Collection)
+- Python 3
 
-Je ne suis pas très satisfait du résultat en effet le feu que je simmule a un comportement trop périodique et je n'arrive pas a obtenir Les beaux mouvements de convection que je voudrais. 
+## Execution Instructions
 
---------------------------------------------------------------------------
+1. Clone the repository to your local machine.
+2. Navigate to the project directory.
+3. Run the `make` command to compile the code.
+4. Launch the simulation using the command `python3 particle_gui.py`.
+5. Press the 'e' key to initiate the simulation.
 
-Pour lancer les simulations : appuyer sur e 
+## Notes
 
---------------------------------------------------------------------------
+- The fluid mechanics and fire simulations may take some time to load, depending on the power of your hardware.
+- Ensure you have the necessary execution rights for the Python script (`chmod +x particle_gui.py`).
+- If encountering execution issues, verify that the required dependencies are correctly installed.
 
-N'hésiter pas à me faire des retours
+## Contribution
+Contributions in the form of bug fixes, feature enhancements, or suggestions are welcome. Feel free to open an issue or submit a pull request on the repository.
+
