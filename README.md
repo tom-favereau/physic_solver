@@ -1,7 +1,7 @@
 # Project: Physics Solver with Fluid Mechanics Simulation and Fire Simulation
 
 ## Introduction
-This project provides an implementation of a physics solver featuring simulations of fluid mechanics and fire. The simulations are interactive and offer an engaging visual experience.
+This project provides an implementation of a physics solver featuring simulations of fluid mechanics and fire. 
 
 ## Dependencies
 Before running the simulation, make sure you have the following dependencies installed:
